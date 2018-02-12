@@ -1,3 +1,3 @@
 ﻿Hello, Git
 Hello, Again
-Updating README with new information.
+Updating README with new cool information.
